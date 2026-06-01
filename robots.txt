@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tvshownewsde.github.io/tvshownewsde/sitemap.xml
